@@ -31,3 +31,19 @@
    color:crimson;
 
 }
+table,th,td{
+    border: 1px solid;
+    color: brown;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 10px;
+}
+tr:nth-child(even){
+    background-color: rgb(21, 219, 203);
+}
