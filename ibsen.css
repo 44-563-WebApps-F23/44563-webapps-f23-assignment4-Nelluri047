@@ -14,6 +14,23 @@
    font-size: 22px;
    color: yellow;
 }
+.name:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+}
+
+.KROGSTAD:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+}
+.LINDE:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+}
+.MRS_LINDE:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+}
 .direction:hover{
     background-color: aquamarine;
     color:red
@@ -21,14 +38,17 @@
 .LINDE{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:aqua;
+    background-color: blue;
 }
 .KROGSTAD{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:bisque;
+    background-color: chartreuse;
 }
 .MRS_LINDE{
    font-family: Arial, Helvetica, sans-serif;
    color:crimson;
+   background-color:darksalmon;
 
 }
 table,th,td{
