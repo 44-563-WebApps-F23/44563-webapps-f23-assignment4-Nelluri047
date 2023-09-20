@@ -1,7 +1,7 @@
 .speech{
     font-family: sans-serif;
     font-size: 20px;
-    color: black;
+    color: rgb(209, 119, 16);
 }
 .direction{
     font-family: 'Times New Roman';
@@ -58,14 +58,7 @@ table,th,td{
     text-align: left;
     padding:0px;
     margin: 0px;
-    /* padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
-    margin-top: 10px;
-    margin-bottom: 100px;
-    margin-right: 80px;
-    margin-left: 10px; */
+
 }
 tr:nth-child(even){
     background-color: rgb(21, 219, 203);
