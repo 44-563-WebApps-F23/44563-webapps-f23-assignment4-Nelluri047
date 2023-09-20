@@ -1,7 +1,7 @@
 .speech{
     font-family: sans-serif;
     font-size: 20px;
-    color: rgb(209, 119, 16);
+    color: black;
 }
 .direction{
     font-family: 'Times New Roman';
@@ -21,15 +21,15 @@
 
 .KROGSTAD:hover{
     border: solid 2px rgb(175, 37, 240);
-    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+    text-shadow: 3px 3px 3px rgb(125, 67, 239);
 }
 .LINDE:hover{
     border: solid 2px rgb(175, 37, 240);
-    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+    text-shadow: 3px 3px 3px rgb(125, 67, 239);
 }
 .MRS_LINDE:hover{
     border: solid 2px rgb(175, 37, 240);
-    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+    text-shadow: 3px 3px 3px rgb(125, 67, 239);
 }
 .direction:hover{
     background-color: aquamarine;
